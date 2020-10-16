@@ -2,7 +2,7 @@
     margin: 0px;
   }
   
-  .container {
+  .navbar_container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -13,29 +13,29 @@
     font-size: 15px;
   }
   
-  ul {
+  .navbar_ul {
     display: flex;
     list-style: none;
     font-family: "Nunito", sans-serif;
   }
   
-  li {
+  .navbar_li {
     margin: 64px 30px 63px 0px;
     line-height: 110.19%;
     letter-spacing: 1.25px;
     text-transform: uppercase;
   }
   
-  a:hover {
+  .navbar_li a:hover {
     color: #f5772f;
   }
   
-  a {
+  .navbar_li a {
     text-decoration: none;
     color: #273043;
   }
   
-  img {
+ .navbar_container img {
     height: 42px;
     width: 182.46823120117188px;
     margin-left: 50px;

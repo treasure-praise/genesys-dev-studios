@@ -3,26 +3,26 @@ import "./Navbar.css";
 
 const Navbar = () => {
   return (
-    <div className="container">
+    <div className="navbar_container">
       <img src="https://i.ibb.co/ZJ84BRV/Genesys-Logo.png" alt="genesys logo" />
-      <ul>
-        <li>
+      <ul className="navbar_ul">
+        <li className="navbar_li">
           {" "}
           <a href="#">LEARNABLE </a>{" "}
         </li>
-        <li>
+        <li className="navbar_li">
           {" "}
           <a href="#">AGORA </a>{" "}
         </li>
-        <li>
+        <li className="navbar_li">
           {" "}
           <a href="#"> STARTZONE</a>{" "}
         </li>
-        <li>
+        <li className="navbar_li">
           {" "}
           <a href="#">ABOUT </a>{" "}
         </li>
-        <li>
+        <li className="navbar_li">
           {" "}
           <a href="#">CONTACT </a>{" "}
         </li>

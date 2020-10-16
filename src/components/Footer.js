@@ -29,6 +29,8 @@ const Footer =()=>{
                 <a className="footer_link">HEAD TO DEV STUDIO</a>
                 </p>
                 </div>
+            </div>
+            <div className="social_media">
                 
             </div>
         </div>
