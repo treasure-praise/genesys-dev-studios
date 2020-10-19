@@ -49,6 +49,7 @@
     font-size: 13px;
     line-height: 21px;
     letter-spacing: 0.4px;
+    padding-bottom:10px;
 }
 
 input[type="email" ]{
@@ -65,3 +66,19 @@ input[type="email" ]{
     border: 1px solid #273043;
     margin-right:0px
 }
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #273043;
+    opacity: 1; /* Firefox */
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #273043;
+  }
+  
+  ::-ms-input-placeholder { /* Microsoft Edge */
+    color: #273043;
+    
+  }
+
+  
