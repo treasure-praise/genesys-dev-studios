@@ -1,0 +1,53 @@
+.apply-content-img{
+    padding-left: 208px;
+    padding-right: 208px;
+    
+    /* width:980px; */
+    /* height: 666px; */
+}
+
+.apply-content-img img{
+    margin: 0 auto;
+}
+
+.copy{
+    width: 523px;
+    height: 191px;
+    margin:0 auto;
+}
+
+.copy h3{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    color: #273043;
+    margin-bottom: 35px;
+    margin-top: 85px;
+
+}
+
+.copy p{
+    color: #273043;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 28px;
+}
+
+.copya{
+    color: #03CEA4;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    text-decoration: underline;
+    padding-top: 40px;
+    padding-bottom: 84px;
+    cursor:pointer;
+}
+
+.content-container{
+    margin-bottom: 195px;
+}

@@ -1,0 +1,35 @@
+.hero{
+    display: flex;
+    /* width: 1290px; */
+    /* height: 572px; */
+    padding: 69px 50px 126px  50px
+}
+
+.hero h1{
+    color: #17255A;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 96px;
+    padding-top: 83px;
+    padding-bottom: 78px;
+
+}
+
+.hero p{
+    color: #273043;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 28px;  
+    width: 523px;
+    height: 239px;
+    margin-bottom: 126px;
+}
+
+
+
+.hero-content{
+    margin-right: 215px;
+}

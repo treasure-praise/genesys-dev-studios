@@ -1,0 +1,19 @@
+.faq-hero_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.faq-hero_container h1{
+    width: 522px;
+height: 73.58px;
+color: #17255A;
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 96px
+}
+
+.faq-hero_container img{
+    margin: 73px 51px 150px 215px
+}

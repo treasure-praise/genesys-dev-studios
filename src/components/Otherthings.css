@@ -1,0 +1,56 @@
+.other-things_container{
+    height:779px;
+    /* padding:100px 150px 103px 100px; */
+    padding-left:100px;
+    
+    display: flex;
+    align-items: center;
+    background-color: #eeeeee;
+}
+
+.other-things_container h2{
+    color: #17255A;
+    margin:324px 150px 323px 0px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 60px;
+    text-align: left;
+}
+
+.service-deliverables{
+    width: 505px;
+    height: 576px;
+    display:flex;
+    flex-wrap:wrap;
+    margin-right:95px;
+    /* margin:100px 195px 174px 100px */
+}
+
+.other-things-img{
+    width:240px;
+    height: 240px;
+    margin:0px;
+    display:inline-block;
+    
+    /* margin-bottom: 25px; */
+
+}
+
+.divs{
+     margin-right: 19px; 
+}
+
+.other-things-img a{
+    color: #17255A;
+    text-decoration: underline;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.center{
+    text-align: center;
+    padding:50px auto;
+}
