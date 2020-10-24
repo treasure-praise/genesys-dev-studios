@@ -1,0 +1,59 @@
+.designer-hero-container{
+    display:flex;
+    padding-left:100px  ;
+    width: 1075px;
+/* height: 790px; */
+}
+
+.designer-hero-container h1{
+    color: #17255A;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 96px;
+    margin-bottom: 78px;
+    margin-top: 70px;
+    width: 522px;
+    height: 391px;
+}
+
+.designer-hero-container p{
+    color: #273043;;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 28px;
+    width: 523px;
+    height: 321px;
+    margin-bottom: 126px;
+}
+
+.cutout-developer{
+    border-radius:50%;
+    background-color: #03CEA4;
+    /* background-image: url(/images/cutout.png); */
+    width: 338px;
+   height: 338px;
+   margin-left: 215px;
+   margin-top:96px;
+}
+
+.cutout-developer img{
+    width: 338px;
+    border-radius:50%;
+    
+}
+
+.quote_developer{
+    width: 735px;
+height: 382px;
+color: #03CEA4;
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 60px;
+line-height: 110.19%;
+margin-bottom: 126px;
+padding-left: 100px;
+}
