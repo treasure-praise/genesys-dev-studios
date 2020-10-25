@@ -1,0 +1,85 @@
+.journal-hero-container{
+    padding:70px 50px 0px 50px;
+    
+}
+
+.hero-description{
+    height: 438px;
+    background-color:#eeeeee;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    /* padding-top: 147px;
+    padding-left: 189px; */
+    /* padding-bottom: 185px; */
+}
+
+.hero-description h1{
+    color: #17255A;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 96px;
+    margin:147px 530px 185px 18px
+}
+
+.hero-journal{
+    height: 574px;
+    display: flex;
+    margin-top:50px;
+}
+
+.hero-journal img{
+    /* width: 730.71px;
+height: 574px; */
+margin-right:85px;  
+}
+
+.hero-journal a{
+    color: #03CEA4;
+    font-family: Nunito;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+letter-spacing: 1.25px;
+text-decoration-line: underline;
+
+margin-bottom: 32px;
+}
+
+.hero-journal h2{
+    width: 447px;
+height: 156px;
+font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+    color: #17255A;
+    margin-top: 44px; 
+    margin-bottom: 48.21px; 
+}
+
+.avatar-container{
+    display: flex;
+    align-items: center;
+    margin-top: 32.36px;
+}
+
+.avatar-container img{
+    margin-right:20px;
+}
+
+.avatar-container h5{
+    font-family: Nunito;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 21px;
+color: #273043;
+letter-spacing: 0.4px;
+}
+
+.journal-snippet{
+    margin-top:30px;
+}
